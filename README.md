@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Olá mundo!!! Seja bem-vindo ao meu GitHub <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+  <h2> Hello everyone! Welcome to my GitHub <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
   <a href="https://www.linkedin.com/in/joao-ferreira-developer" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;"
   /></a>
