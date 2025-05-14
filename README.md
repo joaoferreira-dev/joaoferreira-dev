@@ -1,23 +1,38 @@
-<div align="center">
-  <h2> Hello everyone! Welcome to my GitHub <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-  <a href="https://www.linkedin.com/in/joao-ferreira-developer" target="_blank"><img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;"
-  /></a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/kiwizera">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwizera&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiwizera&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-  </a>
-</div>
+# 👋 Hi there, I'm João Ferreira
 
-<!--<div style="display: inline-block" align="center"><br>
-  <img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-</div>
+I'm a **Full Stack Developer** with over **3 years of experience** building scalable web applications, APIs, and cloud infrastructure solutions. I specialize in:
+
+- ⚙️ **Backend Development** – Python, Node.js, RESTful APIs, Microservices
+- 🌐 **Frontend Development** – JavaScript, React, Next.js, responsive UI/UX
+- ☁️ **Cloud & DevOps** – AWS, Docker, CI/CD, Infrastructure as Code
+
+I'm passionate about creating seamless, high-quality user experiences backed by efficient and maintainable backend systems.
+
+---
+
+## 🚀 Tech Stack
+
+**Languages:**  
+Python · JavaScript · TypeScript · Java · PHP
+
+**Frameworks & Libraries:**  
+React · Next.js · Express · FastAPI · TailwindCSS
+
+**Tools & Platforms:**  
+AWS (Lambda, EC2, S3, API Gateway, S3 and more) · Docker · Git · GitHub Actions · Postman · MySQL
+
+---
+
+## 📍 Open to Opportunities
+
+I'm currently looking for **full-time roles in New Zealand** starting **July 2025**.  
+I'm particularly interested in companies that offer **visa sponsorship** for long-term employment.
+
+If you're hiring or want to collaborate, feel free to reach out!
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joao-ferreira-developer)  
+- 📧 joaosilvaferreira.dev@gmail.com 
