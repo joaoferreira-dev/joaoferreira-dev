@@ -25,8 +25,7 @@ AWS (Lambda, EC2, S3, API Gateway, S3 and more) · Docker · Git · GitHub Actio
 
 ## 📍 Open to Opportunities
 
-I'm currently looking for **full-time roles in New Zealand** starting **July 2025**.  
-I'm particularly interested in companies that offer **visa sponsorship** for long-term employment.
+Seeking to leverage skills in a remote or sponsorship-based role within an international tech team.
 
 If you're hiring or want to collaborate, feel free to reach out!
 
