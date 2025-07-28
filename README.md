@@ -33,6 +33,6 @@ If you're hiring or want to collaborate, feel free to reach out!
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joao-ferreira-developer)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaoferreira-dev)  
 - 📧 joaosilvaferreira.dev@gmail.com 
 - 🧑🏽‍💻 [Portfolio](https://www.joaoferreira.tech) 
