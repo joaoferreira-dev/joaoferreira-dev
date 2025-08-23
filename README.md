@@ -23,14 +23,6 @@ AWS (Lambda, EC2, S3, API Gateway, S3 and more) · Docker · Git · GitHub Actio
 
 ---
 
-## 📍 Open to Opportunities
-
-Seeking to leverage skills in a remote or portugal-based role within an powerful tech team.
-
-If you're hiring or want to collaborate, feel free to reach out!
-
----
-
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaoferreira-dev)  
