@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm João Ferreira
 
-I'm a **Full Stack Developer** with over **3 years of experience** building scalable web applications, APIs, and cloud infrastructure solutions. I specialize in:
+I'm a **Software Engineer** with over **3 years of experience** building scalable web applications, APIs, and cloud infrastructure solutions. I specialize in:
 
 - ⚙️ **Backend Development** – Python, Node.js, RESTful APIs, Microservices
 - 🌐 **Frontend Development** – JavaScript, React, Next.js, responsive UI/UX
