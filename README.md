@@ -2,9 +2,9 @@
 
 I'm a **Software Engineer** with over **3 years of experience** building scalable web applications, APIs, and cloud infrastructure solutions. I specialize in:
 
-- ⚙️ **Backend Development** – Python, Node.js, RESTful APIs, Microservices
-- 🌐 **Frontend Development** – JavaScript, React, Next.js, responsive UI/UX
-- ☁️ **Cloud & DevOps** – AWS, Docker, CI/CD, Infrastructure as Code
+- ⚙️ **Backend Development** – Python/Golang, Node.js, RESTful APIs, Microservices
+- 🌐 **Frontend Development** – JavaScript/TypeScript, React, Next.js, responsive UI/UX
+- ☁️ **Cloud & DevOps** – AWS, Terraform, Docker, CI/CD, Infrastructure as Code
 
 I'm passionate about creating seamless, high-quality user experiences backed by efficient and maintainable backend systems.
 
