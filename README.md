@@ -13,13 +13,13 @@ I'm passionate about creating seamless, high-quality user experiences backed by 
 ## 🚀 Tech Stack
 
 **Languages:**  
-Python · JavaScript · TypeScript · Java · PHP
+Python · JavaScript/TypeScript · Golang · Java
 
 **Frameworks & Libraries:**  
 React · Next.js · Express · FastAPI · TailwindCSS
 
 **Tools & Platforms:**  
-AWS (Lambda, EC2, S3, API Gateway, S3 and more) · Docker · Git · GitHub Actions · Postman · MySQL
+AWS (Lambda, EC2, S3, API Gateway, S3 and more) · Docker · Git · GitHub Actions · Postman · SQL/NoSQL
 
 ---
 
